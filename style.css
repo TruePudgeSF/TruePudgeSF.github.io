@@ -83,9 +83,7 @@ h2 {
 }
 .feature-chuchelo {
   padding-top: 65px;
-  background-image: url('img/chuchelo.svg')
-
-
+  background-image: url('img/chuchelo.svg');
 }
 .advantages {
   width: 510px;
