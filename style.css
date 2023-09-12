@@ -68,21 +68,21 @@ h2 {
 }
 
 .feature-furniture {
-  padding-top: 65px;
+  padding-top: 50px;
   background-image: url("img/furniture.svg");
 }
 
 .feature-lighting {
-  padding-top: 65px;
+  padding-top: 50px;
   background-image: url("img/lighting.svg");
 }
 
 .feature-accessories {
-  padding-top: 65px;
+  padding-top: 50px;
   background-image: url("img/accessories.svg");
 }
 .feature-chuchelo {
-  padding-top: 65px;
+  padding-top: 50px;
   background-image: url('img/chuchelo.svg');
 }
 .advantages {
